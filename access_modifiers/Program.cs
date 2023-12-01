@@ -1,4 +1,4 @@
-﻿namespace access_modifiers_constructor;
+namespace access_modifiers_constructor;
 class Program
 {
     static void Main(string[] args)
