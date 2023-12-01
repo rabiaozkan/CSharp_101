@@ -4,9 +4,9 @@ class Program
     static void Main(string[] args)
     {
         Student student = new Student();
-        student.Name = "Berk";
-        student.LastName = "Turgut";
-        student.StudentNo = 611;
+        student.Name = "Rabia";
+        student.LastName = "Ozkan";
+        student.StudentNo = 726;
         student.Grade = 3;
 
         student.GetStudentInfo();
@@ -14,7 +14,7 @@ class Program
         student.UpGrade();
         student.GetStudentInfo();
 
-        Student studentTwo = new Student("Ali", "Deniz",256,1);
+        Student studentTwo = new Student("Ali", "Veli",550,1);
         studentTwo.GetStudentInfo();
         studentTwo.DownGrade();
         studentTwo.DownGrade();
@@ -24,7 +24,6 @@ class Program
 
 class Student
 {
-    //field declaration. 
     private string name;
     private string lastName;
     private int studentNo;
