@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMjHKzvx3rpneXZcP74VZawh0hasTl6F+1pclrZu+TdvvVH/BlET2pgo9Kzhuy5bETF6xMVADugmT9RXjAVNlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merve\\Desktop\\csharp\\CSharp_101\\RestfulAPI\\WebApplication1\\RestfulAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
